@@ -1,0 +1,51 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+
+    align-self: stretch;
+    margin-top: 0px;
+    padding: 50px;
+}
+
+h2{
+    text-align: center;
+    color: white;
+
+    align-self: stretch;
+    padding: 10px;
+}
+
+.header {
+    flex: auto;
+    background-color: cadetblue;
+    align-self: stretch;
+}
+
+.header2 {
+    flex: auto;
+    background-color: cadetblue;
+    align-self: stretch;
+}
+
+input {
+    align-self: center;
+    flex: auto;
+}
+
+button {
+    flex: auto;
+    align-self: center;
+}
+
+label {
+    margin-left: 100px;
+
+}
+
+input {
+    margin-left: 20px;
+}
